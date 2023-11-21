@@ -1,8 +1,4 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:smart_car_authentication/smart_car_authentication.dart';
 
 void main() => runApp(const MyApp());
